@@ -1,0 +1,87 @@
+[
+    {
+        "brand": "Cereal1",
+        "category": "comida",
+        "product": "cereales",
+        "sales": [
+            {
+                "month": "January",
+                "amount": 100
+            },
+            {
+                "month": "February",
+                "amount": 450
+            },
+            {
+                "month": "March",
+                "amount": 343
+            },
+            {
+                "month": "April",
+                "amount": 650
+            },
+            {
+                "month": "May",
+                "amount": 300
+            },
+            {
+                "month": "June",
+                "amount": 340
+            }
+        ]
+    },
+    {
+        "brand": "Cereal2",
+        "category": "comida",
+        "product": "cereales",
+        "sales": [
+            {
+                "month": "January",
+                "amount": 10
+            },
+            {
+                "month": "February",
+                "amount": 45
+            },
+            {
+                "month": "March",
+                "amount": 34
+            },
+            {
+                "month": "April",
+                "amount": 65
+            }
+        ]
+    },
+    {
+        "brand": "Leche1",
+        "category": "comida",
+        "product": "leche",
+        "sales": [
+            {
+                "month": "January",
+                "amount": 300
+            },
+            {
+                "month": "February",
+                "amount": 250
+            },
+            {
+                "month": "March",
+                "amount": 140
+            },
+            {
+                "month": "April",
+                "amount": 450
+            },
+            {
+                "month": "May",
+                "amount": 300
+            },
+            {
+                "month": "June",
+                "amount": 540
+            }
+        ]
+    }
+]
